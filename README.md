@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/EmanuelDevid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelDevid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelDevid&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif">
 </div>
 <div style="display: inline_block"><br>
