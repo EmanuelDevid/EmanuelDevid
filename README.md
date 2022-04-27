@@ -1,4 +1,4 @@
-<h3>Olá, eu sou o Emanuel Dêvid, graduando em Engeharia da Computação.</h3>
+<h3>Olá, eu sou o Emanuel Dêvid, graduando em Engenharia da Computação.</h3>
 
 #
 
