@@ -1,4 +1,4 @@
-<h4>Olá, eu sou o Emanuel Dêvid, graduando em Engenharia da Computação com foco na vertente de cinência da computação, pela Universidade Federal do Ceará.</h4>
+<h2>Olá, eu sou o Emanuel Dêvid, graduando em Engenharia da Computação com foco na vertente de cinência da computação, pela Universidade Federal do Ceará.</h4>
 
 #
 
