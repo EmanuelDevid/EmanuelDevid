@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Emanuel Dêvid, graduando em Engenharia da Computação com foco na vertente de cinência da computação, pela Universidade Federal do Ceará.</h4>
+<h4>Hello, my name is Emanuel Dêvid, I'm graduating in Computer Engineering at the Federal University of Ceará (FUC) - Sobral. I intend to complete my training with a focus on Computer Science. Also, I'm currently studying Web Development, specifically HTML, CSS, PHP and JavaScript (Node.js). I also study English at Wizard in Sobral - CE, and I am taking the Immediate Conversation course in English. In addition, I voluntarily act as a Back-End Developer at Loading Jr.</h4>
 
 #
 
