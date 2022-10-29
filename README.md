@@ -2,7 +2,7 @@
 
 #
 
-<div align="left">
+<div align="left" style="display:flex; align-items:center"; >
   <a href="https://github.com/EmanuelDevid">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmanuelDevid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDevid&layout=compact&langs_count=7&theme=dark"/>
@@ -10,7 +10,7 @@
   
 #
 
-<h5>Tecnologias:</h4>
+<h5>Tecnologias e Habilidades:</h4>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
