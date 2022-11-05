@@ -5,7 +5,7 @@
 <div align="left" style="display:flex; align-items:center; justify-content:center;">
   <a href="https://github.com/EmanuelDevid">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmanuelDevid&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDevid&layout=compact&langs_count=100&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDevid&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
   
 #
@@ -30,6 +30,7 @@
   <a href="https://www.linkedin.com/in/emanuel-d%C3%AAvid-felix-35462a1a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/EmanuelDevid/EmanuelDevid/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
