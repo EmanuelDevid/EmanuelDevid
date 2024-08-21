@@ -33,4 +33,3 @@
 
 <br>
 
-![Snake animation](https://github.com/EmanuelDevid/EmanuelDevid/blob/output/github-contribution-grid-snake.svg)
