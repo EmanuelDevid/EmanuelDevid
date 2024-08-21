@@ -20,7 +20,7 @@
 ### Sobre Mim
 
 - 💻 Graduando em Engenharia da Computação pela Universidade Federal do Ceará (UFC)
-- 🧑‍💻 Desenvolvedor Back-End na Loading Jr
+- 🧑‍💻 Atuei como desenvolvedor Back-End na Loading Jr
 - 📚 Estudante de Inglês na Wizard, atualmente no W4, Immediate Conversation Course
 - 🤓 Estudando desenvolvimento web, em especial PHP/Laravel e JavaScript/Node.JS
 
